@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites.
  
- tema: minimalist
+ remote_theme: benbalter/retlab
