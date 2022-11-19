@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites.
  
- theme:Modernist
+ tema: minimalist
